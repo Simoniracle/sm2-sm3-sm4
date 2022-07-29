@@ -1,10 +1,3 @@
-# -*-coding:utf-8-*-
-"""
-author: Mki603
-date: 2019/04/12
-about: SM3
-"""
-
 def Fill(text):
     """
     消息填充
